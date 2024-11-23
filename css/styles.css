@@ -1,5 +1,5 @@
 body{
-    font-family: "Roboto", sans-serif,
+    font-family: "Roboto", sans-serif;
     color: #434455;
     background: #fff;
 }
@@ -178,7 +178,7 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-.footer{
+footer{
 background-color: #2e2f42;
 }
 
@@ -190,11 +190,12 @@ background-color: #2e2f42;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     text-decoration: none;
-    color: white;
+    color: #4d5ae5;
     }
     
-    .part{
-        color: #4d5ae5;
+    .part-down{
+        color:#f4f4fd;
+
     } 
 
 .ending{
