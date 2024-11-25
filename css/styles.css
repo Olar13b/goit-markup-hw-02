@@ -20,7 +20,7 @@ color: #4d5ae5;
 }
 
 .part{
-    color: black;
+    color: #2e2f42;
 }
 
 .navigation{
@@ -128,7 +128,6 @@ text-transform: capitalize;
 
 .team-list{
         grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-        justify-content: center;
         background-color: #FFFFFF;
 }
 
