@@ -27,7 +27,7 @@ color: #4d5ae5;
     --font-family: "Roboto", sans-serif;
     text-decoration: none;
     list-style-type: none;
-    color: var(--navy-blue);
+    color: #434455;
     font-weight: 500;
     font-size: 16px;
     line-height: 150%;
@@ -38,7 +38,7 @@ color: #4d5ae5;
 .navigation:hover,
 .navigation:focus{
     color: #404bbf;
-    
+
 }
 
 ul{
@@ -60,6 +60,20 @@ color: #434455;
 .contact-info:hover,
 .contact-info:focus{
     color: #404bbf;
+}
+
+.actual-info{
+text-decoration: none;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.actual-info:hover,
+.actual-info:focus{
+    color:#404bbf;
 }
 
 .slogan{
