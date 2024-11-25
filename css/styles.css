@@ -52,6 +52,11 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
+.contact-info:hover,
+.contact-info:focus{
+    color: #404bbf;
+}
+
 .slogan{
 background: #2e2f42;
 }
