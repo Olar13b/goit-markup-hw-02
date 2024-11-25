@@ -15,11 +15,11 @@ line-height: 117%;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 text-decoration: none;
-color: black;
+color: #4d5ae5;
 }
 
 .part{
-    color: #4d5ae5;
+    color: black;
 }
 
 .navigation{
@@ -41,6 +41,7 @@ ul{
 }
 
 .contact-info{
+font-style: normal;
 font-family: "Roboto", sans-serif;
 text-decoration: none;
 font-weight: 400;
@@ -100,7 +101,7 @@ background: #f4f4fd;
 }
 
 .team-title{
-    font-family: "Roboto", sans-serif;
+font-family: "Roboto", sans-serif;
 font-weight: 700;
 font-size: 36px;
 line-height: 111%;
@@ -178,7 +179,7 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-footer{
+.footer{
 background-color: #2e2f42;
 }
 
